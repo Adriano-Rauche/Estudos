@@ -1,0 +1,207 @@
+/*-------------- Global -------------- */
+
+* {
+    margin:0;
+    padding: 0;
+    font-family: Tahoma
+}
+
+.secao {
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    
+}
+
+h1{
+    margin-bottom: 5px
+
+}
+
+h3 {
+    font-weight: bold;
+    color: #1c81c0;
+    margin-bottom: 20px;
+    font-size: 28px;
+}
+
+
+
+
+span {
+    font-weight: bold;
+}
+
+.paragrafo {
+    text-align: justify;
+    font-size: 18px;
+    width: 980px;
+    margin: 10px auto;
+    
+}
+
+.destaque-azul{
+    color: #1d80c1
+}
+
+.destaque-amarelo {
+    color: #fff81b
+}
+
+.lista-servico {
+    width: 135px;
+    margin: 40px auto 40px;
+    color: white;
+    line-height: 40px;
+    font-size: 22px;
+    text-align: start;
+}
+
+.img-banner {
+
+    border-radius: 10px;
+}
+
+/*--------------seção Menu/Logo/Banner -------------- */
+
+.secao-banner {
+    margin-top:50px ;
+    
+}
+
+
+.paragrafo-topo {
+    text-align: center;
+    font-size: 100px;
+    
+    
+}
+
+.link-menu a {
+    color: #1d1d1d;
+    text-decoration: none;
+    margin: 0 10px;
+    font-size: 100px;
+    border-bottom: 2px solid #1d1d1d;
+}
+
+
+
+
+
+.img-logo{
+    width: 150px;
+    border-radius: 10px;
+}
+
+.secao-topo {
+    background-color: #afddfb;
+    padding: 15px 0px 15px 0px;
+    text-align: center;
+
+}
+
+.secao-topo a {
+    margin: 10px auto;
+    padding: 10px;
+    color: #1d1d1d;
+    font-size: 22px;
+}
+
+
+/*--------------seção Assinatura  -------------- */
+
+.img-assinatura {
+    width: 450px;
+    border-radius: 10px;
+    margin-top: 30px;
+}
+
+.paragrafo-assinatura{
+    line-height: 30px;
+}
+
+
+/*--------------seção Serviços -------------- */
+
+
+.secao-servico{
+    background-color: #1d80c1;
+}
+
+.secao-servico h3{
+    color: white;
+    margin: 35px;
+}
+
+.secao-servico p{
+    color: white;
+    line-height: 42px;
+    width: 700px;
+    text-align: center;
+    font-size: 22px
+}
+
+/*--------------seção Corretores -------------- */
+
+.secao-corretor h1{
+    color: #1d80c1;;
+    margin: 50px auto 30px;
+}
+
+.paragrafo-corretores{
+    line-height: 30px;
+}
+
+/*--------------seção contato -------------- */
+
+iframe {
+
+    margin-bottom: 25px;
+    border-radius: 10px;
+}
+
+.secao-contato {
+    background-color: #1d80c1;
+}
+
+.secao-contato h3{
+    color: white;
+}
+
+.secao-contato p{
+    color: white;
+    background-color: #1d1d1d;
+    padding: 15px;
+    margin: 0 auto;
+    width: 950px;
+    border-radius: 10px;
+}
+
+
+.lista-contato{
+
+    width: 340px;
+    margin: 45px auto;
+    list-style: none;
+ 
+
+
+}
+
+.item-lista-contato{
+    
+    padding: 15px;
+
+}
+
+
+.link-lista-contato {
+    
+    padding: 5px;
+    background-color: white;
+    border-radius: 10px;
+    margin: 5px;
+    color: #1d80c1;
+
+}

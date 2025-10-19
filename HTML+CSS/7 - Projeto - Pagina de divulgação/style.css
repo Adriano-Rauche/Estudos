@@ -1,0 +1,247 @@
+/* -------- Global ------------ */
+
+*{
+    font-family: monospace;
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+h1{
+    font-size: 36px;
+}
+
+h2{
+    font-size: 28px;
+}
+
+.secao{
+    width: 100%;
+    text-align: center;
+    padding: 50px 20px;
+    
+}
+
+.limitar-secao{
+   max-width: 1024px;
+   margin: 0px auto;
+}
+
+/* -------- Menu ------------ */
+
+.secao-menu{
+    background-color: #040206 ;
+    text-align: center;
+    width: 100%;
+    padding: 20px;
+    border-bottom: 1px solid #302136;
+}
+
+.secao-menu a{
+    padding: 35px;
+    color: white;
+    font-size: 28px;
+    text-decoration: none;
+}
+
+
+/* -------- Banner ------------ */
+
+.banner{
+    height: calc(100vh - 70px);
+    background-image: url("imagens//banner.jpg"); 
+    background-size:cover;
+    position: top center;
+}
+
+
+/* -------- Sinopse ------------ */
+
+.secao-sinopse{
+    width: 100%;
+    padding: 50px 20px;
+}
+
+.secao-sinopse p{
+    line-height: 40px;
+    text-align: start;
+    max-width: 1024px;
+    width: 100%;
+    font-size: 20px;
+    margin: 10px auto;
+
+}
+
+.secao-sinopse h2{
+    font-weight: bold;
+    font-size: 28px;
+    margin: 30px 0px 50px
+}
+
+/* -------- Disponibilidade ------------ */
+
+.secao-disponibilidade{
+
+    background-color:#302136 ;
+    margin: 0px auto;
+    
+}
+
+
+.secao-disponibilidade h2{
+
+    color: white;
+    margin-bottom: 50px 
+
+}
+
+.secao-disponibilidade img{
+
+    box-shadow: 0px 0px 15px 2px white;
+    width: 80%;
+    margin: 0 auto 50px;
+    display: block;
+
+}
+
+.secao-disponibilidade p{
+
+    color:white;
+    width: 1024px;
+    text-align: justify;
+    font-size: 20px;
+    margin: 50px auto;
+    line-height: 40px;
+    width: 100%;
+    max-width: 1024px;
+
+}
+
+
+/* -------- Temporada ------------ */
+
+
+
+.secao-temporadas-cards {
+    background-color: #f0f0f0;
+    box-shadow: 0px 0px 10px 3px #cac4c4;
+    padding: 20px;
+    margin-bottom: 40px;
+    text-align: start;
+    border-radius: 5px;
+    min-height: 160px;
+
+}
+
+.secao-temporadas h2{
+    margin: 0 0 50px;
+}
+
+.secao-temporadas-cards h3 {
+    margin: 0px 0px 10px;
+    font-size: 20px;
+}
+
+.secao-temporadas p{
+    min-width:160px;
+    font-size: 16px;
+    margin: 10px 0px;
+    line-height: 30px;
+}
+
+
+/* -------- Imagens da série ------------ */
+
+
+.secao-imagens{
+
+    background-color: #302136;
+    white-space: nowrap;
+}
+
+.secao-imagens span{ 
+    
+    color: white;
+    font-size: 20px;
+    text-align: start;
+    display: block;
+
+}
+
+.secao-imagens a{ 
+    
+    color: white;
+    font-size: 20px;
+
+
+}
+
+.secao-imagens h2{
+
+    color: white;
+    margin-bottom: 50px;
+}
+
+.secao-imagens-card{
+    max-width: 1024px;
+    width: 100%;
+    display: inline-block;
+    overflow:auto;
+    margin: 0px 0px 20px;
+}
+
+
+.secao-imagens-card img{
+
+    width: 320px;
+    min-height: 220px;
+    background-size:contain;
+    position: top center;
+    margin: 25px 20px;
+    box-shadow: 0px 0px 10px 3px white;
+    border-radius: 5px;
+}
+
+/* ---------------Rodape--------------- */
+
+
+.secao-rodape{
+    background-color: #302136;
+    color: white;
+    text-align: center;
+    box-shadow: 0px 10px 20px 5px #cac4c4;;
+    font-size: 18px;
+    padding: 40px;
+}
+
+/* -------- barra de rolagem------------ */
+
+*::-webkit-scrollbar {
+  height: 10px;
+  width: 10px;
+}
+*::-webkit-scrollbar-track {
+  border-radius: 2px;
+  background-color: #EBEBEB;
+}
+
+*::-webkit-scrollbar-track:hover {
+  background-color: #EBEBEB;
+}
+
+*::-webkit-scrollbar-track:active {
+  background-color: #EBEBEB;
+}
+
+*::-webkit-scrollbar-thumb {
+  border-radius: 2px;
+  background-color: #717575;
+}
+
+*::-webkit-scrollbar-thumb:hover {
+  background-color: #94A0A3;
+}
+
+*::-webkit-scrollbar-thumb:active {
+  background-color: #8FA3A1;
+}
