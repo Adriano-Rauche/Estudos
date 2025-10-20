@@ -1,0 +1,215 @@
+/*---------------------------Global--------------------------- */
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    text-decoration: none;
+}
+
+h3 {
+    font-size: 36px;
+    color: #3c184e;
+    text-align: center;
+    margin-bottom: 45px;
+}
+
+.secao {
+
+    width: 100%;
+    padding: 120px 80px;
+    text-align: center;
+}
+
+/*---------------------------Logo---------------------------- */
+
+.secao-logo{
+    color: #3c184e;
+    display: inline-block;
+    white-space: nowrap;
+    margin-bottom: 5px;
+    max-width: 250px;
+    max-height: 120px;
+}
+
+.secao-logo h1{
+    font-size: 35px;
+    display: inline-block;
+    white-space: nowrap;
+}
+
+.secao-logo p {
+    font-size: 14px;
+    text-align: center;
+}
+
+.secao-logo img{
+
+    width: 30px;
+    height: auto;
+
+}
+
+/*---------------------------Banner---------------------------- */
+
+.secao-banner{
+
+    background-image: url(img/banner-topo.jpg);
+    background-size: cover;
+    background-position: center;
+    height: auto;
+    width: 100%;
+    height: calc(100vh - 5px);
+    padding: 120px 80px ;
+}
+
+.secao-banner a{
+    background-color: #3c184e;
+    color: white;
+    text-align: center;
+    width: 200px;
+    border-radius: 10px;
+    padding: 10px 25px;
+    margin: 0px auto;
+    display: block;
+
+}
+
+.secao-banner-card {
+    background-color: #ffffffc4;
+    max-width: 1024px;
+    border-radius: 10px;
+    padding: 40px;
+    margin: 70px auto 0px;
+    box-shadow: 0px 8px 32px #1f26875e;
+}
+
+
+.secao-banner-card img {
+    width: 20px;
+    height: auto;
+    margin-left: 10px;
+}
+.secao-banner-card h1 {
+
+    font-size: 60px;
+    color: #3c184e;
+    text-align: center;
+    font-weight: 800;
+    margin: 0px;
+    margin-bottom: 40px;
+}
+
+/*---------------------------Serviços---------------------------- */
+
+.secao-servicos{
+    margin: 0px auto;
+}
+
+.secao-servicos h3{
+    font-size: 36px;
+    color: #3c184e;
+    text-align: center;
+    margin-bottom: 45px;
+}
+
+
+.lista ul{
+    max-width: 800px;
+    display: block;
+    margin: 0px auto;
+    color: #3c184e;
+    text-align: start;
+    margin-bottom: 50px;
+    list-style:square;
+    font-size: 20px;
+}
+
+.lista li{
+    margin-bottom:20px
+}
+
+.lista span{
+    font-style: italic;
+    font-weight: 700;
+}
+
+.secao-galeria img{
+    box-shadow: 3px 6px 10px 6px #0000005c;
+    border-radius: 5px;
+}
+
+/*---------------------------Redes Sociais---------------------------- */
+.secao-redes-sociais{
+    background-color: #3c184e;
+}
+
+.secao-redes-sociais p{
+    max-width: 800px;
+    margin: 0px auto 50px;
+    font-size: 40px;
+    color: #fff;
+    text-align: center;
+}
+
+.secao-redes-sociais span{
+    font-weight: 700;
+    font-style: italic;
+
+}
+
+.secao-redes-sociais img{
+    width: 50px;
+    height: auto;
+    margin: 20px 20px;
+
+}
+
+/*------------------------------ Marcas -------------------------------- */
+
+
+.secao-marcas div{
+    max-width: 800px;
+    margin: 0px auto;
+
+}
+
+.secao-marcas img{
+    width: 148px;
+    height: auto;
+    margin: 0px 25px;
+
+}
+
+.secao-marcas h3{
+    font-size: 36px;
+    color: #3c184e;
+    text-align: center;
+    margin-bottom: 45px;
+}
+
+/*------------------------------ Onde estamos -------------------------------- */
+
+.secao-onde-estamos p {
+    font-size: 20px;
+    color: #3c184e;
+    text-align: center;
+    margin-bottom:45px
+}
+
+.secao-onde-estamos iframe {
+    height: 450px;
+    width: 800px;
+}
+
+/*------------------------------ Onde estamos -------------------------------- */
+ 
+.secao-rodape{
+
+    background-color: #3c184e;
+    font-size: 12px;
+    text-align: center;
+    color: #fff;
+    padding: 10px 0px;
+    width: 100%;
+}
