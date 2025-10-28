@@ -87,7 +87,7 @@ body {
 
 .banner-paralax{
   background-image: url("img/parallax-imagem1.png");
-  height: calc(100vh - 60px);
+  height: calc(100vh);
   z-index: 0;
   text-align: center;
   background-attachment: fixed;
@@ -180,7 +180,8 @@ left: 0px;
 margin: 0px auto;
 border-radius: 5px;
 width: 80%;
-height: 450px;
+height: 50%;
+max-height: 450px;
 
 }
 
@@ -193,7 +194,7 @@ height: 450px;
   font-size: 16px;
   background-color: #604829;
   position: absolute;
-  bottom: 8%;
+  bottom: 30px;
   left: 0;
   right: 0;
   width: 500px;
