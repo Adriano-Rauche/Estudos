@@ -1,0 +1,539 @@
+/* GLOBAL */
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Poppins', 'sans-serif';
+}
+
+
+
+/* ---------------------------- secao-topo ---------------------------*/
+.secao-topo{
+    background-color: #fff;
+    padding: 35px 0px;
+    width: 100%;
+}
+
+.secao-topo-conteudo{
+    width: 1024px;
+    margin: 0px auto;
+    position: relative;
+}
+
+.secao-topo-navegacao {
+    position: absolute;
+    right: 0px;
+    top: 40%;
+}
+
+.secao-topo-navegacao a{
+    margin-left: 25px;
+    font-size: 18px;
+    color: #233032;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.logo{
+    width: 400px;
+    position: relative;
+}
+
+.logo span{
+    color: #fff;
+}
+
+.logo img{
+    width: 75px;
+    margin-top: 5px;
+}
+
+.logo h1{
+    position: absolute;
+    top: 5px;
+    left: 100px;
+    font-size: 32px;
+    color: #000000;
+}
+
+.logo p{
+    color: #2f86d6;
+    position: absolute;
+    font-size: 16px;
+    top: 50px;
+    left: 100px;
+}
+
+
+
+/* ------------------------------SECAO-BANNER----------------------------------*/
+
+
+.secao-banner{
+    text-align: center;
+    background-color: #2f86d6;
+    padding: 180px 0px;
+    position: relative;
+
+}
+
+.secao-banner-conteudo{
+    width: 1024px;
+    height: 100%;
+    margin: 0px auto;
+    position: relative;
+
+}
+
+.secao-banner-texto{
+    background-color: #2f86d6;
+    vertical-align: middle;
+    text-align: start;
+    width: 470px;
+}
+
+.secao-banner-texto p{
+    font-size: 16px;
+    color: #fff;
+    padding-bottom: 20px;
+}
+
+.secao-banner-texto h2{
+    font-size: 28px;
+    color: #fff;
+    padding: 10px 0px 10px 0px;
+}
+
+
+
+.secao-banner-conteudo img{
+    position: absolute;
+    top: -100px;
+    right: -30px;
+    width: 500px;
+}
+
+/* ------------------------------SECAO-ANUNCIO----------------------------------*/
+
+.secao-primeiro-anuncio{
+    background-color: #233032;
+    
+}
+
+.secao-primeiro-anuncio-conteudo{
+    text-align: start;
+    width: 1024px;
+    max-height: 140px;
+    color: #fff;
+    margin: 0px auto;
+    position: relative;
+    padding: 40px 0px;
+}
+
+.secao-primeiro-anuncio-conteudo a{
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    background-color: #2f86d6;
+    padding: 15px 15px 15px 45px;
+    border-radius: 5px;
+    position: absolute;
+    top: calc(50px - 8px); 
+    right: 0px;
+}
+
+.secao-primeiro-anuncio-conteudo img{
+    position: absolute;
+    top: 20px;
+    left: 15px;
+    width: 20px;
+}
+
+.secao-primeiro-anuncio-conteudo div{
+    width: 600px;
+
+}
+
+
+/* --------------------------------SECAO-INFO----------------------------------*/
+
+
+.secao-info{
+    width: 100%;
+    padding: 100px 0px;
+    
+}
+
+.secao-info-conteudo{
+    width: 1024px;
+    text-align: center;
+    margin: 0px auto;
+
+    
+}
+
+.info-card{
+    display: inline-block;
+    vertical-align: middle;
+    width: 30%;
+    margin: 0px auto;
+    text-align: center;
+    
+}
+.secao-conteudo-titulo h2{
+    width: 900px;
+    margin: 0px auto;
+    padding: 10px;
+    font-size: 32px;
+    padding-bottom: 45px;
+}
+
+.secao-conteudo-titulo span{
+    color: #2f86d6;
+}
+
+
+.info-card img{
+    width: 25%;
+}
+
+.info-card h2{
+    padding: 20px;
+    color: #000000;
+    font-size: 18px;
+}
+
+.info-card p{   
+    color: #000000;
+    font-size: 16px;
+}
+
+/* --------------------------------SECAO-PLANOS----------------------------------*/
+
+.secao-planos{
+    width: 100%;
+    padding: 100px 0px;
+    background-color: #f0f0f0;
+}
+
+.secao-planos-conteudo {
+    margin: 0px auto;
+    width: 1024px;
+}
+
+.secao-planos-conteudo h2{
+    font-size: 32px;
+    padding-bottom: 50px;
+}
+
+.secao-planos-conteudo span{
+    font-size: 32px;
+    color: #2f86d6;
+}
+
+.secao-planos-conteudo img{
+    width: 100px;
+    padding-top: 20px;
+}
+
+.secao-planos-conteudo table{
+    background-color: #fff;
+    box-shadow: 0px 0px 30px 10px #2f86d6;
+    margin: 0px auto;
+    width: 100%;
+    border-collapse: collapse;
+    
+}
+
+.secao-planos-conteudo table h2{
+    font-size: 18px;
+    color: #000000;
+}
+
+.secao-planos-conteudo table p{
+    
+    font-size: 13px;
+    text-align: center;
+    width: 50%;
+    color: #a89f9f;
+    margin: 0px auto;
+}
+
+.secao-planos-conteudo table tr{
+    font-size: 16px;
+    text-align: center;
+    width: 99%;
+    color: #000000;
+    margin: 0px auto;
+}
+
+.secao-planos-conteudo table th,td{
+    border: 1px solid #d6d1d1;
+    
+    text-align: center;
+    padding: 10px;
+}
+
+.impar{
+    background-color: #f6f6f6;
+}
+
+.par{
+    background-color: #dfe0e4;
+}
+
+/* --------------------------------SECAO-SEGUNDO-ANUNCIO----------------------------------*/
+
+.secao-segundo-anuncio{
+    background-color: #2f86d6;
+    
+}
+
+.secao-segundo-anuncio-conteudo{
+    text-align: start;
+    width: 1024px;
+    max-height: 140px;
+    color: #fff;
+    margin: 0px auto;
+    position: relative;
+    padding: 40px 0px;
+}
+
+.secao-segundo-anuncio-conteudo h2{
+    width: 600px;
+    text-align: start;
+}
+
+.secao-segundo-anuncio-conteudo a{
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    background-color: #233032;
+    padding: 15px 15px 15px 45px;
+    border-radius: 5px;
+    position: absolute;
+    top: calc(50px - 8px); 
+    right: 0px;
+}
+
+.secao-segundo-anuncio-conteudo img{
+    position: absolute;
+    top: 20px;
+    left: 15px;
+    width: 20px;
+}
+
+.secao-segundo-anuncio-conteudo div{
+    width: 600px;
+
+}
+
+
+/* ----------------------------------SECAO-RODAPE---------------------------------*/
+
+.logo-rodape{
+    width: 320px;
+    margin: 0px auto;
+    position: relative;
+    padding-bottom: 45px;
+}
+
+.logo-rodape img{
+    width: 75px;
+    margin-top: 5px;
+}
+
+.logo-rodape h1{
+    position: absolute;
+    top: 5px;
+    left: 100px;
+    font-size: 32px;
+    color: #000000;
+}
+
+.logo-rodape p{
+    color: #2f86d6;
+    position: absolute;
+    font-size: 16px;
+    top: 50px;
+    left: 100px;
+}
+
+.secao-rodape{
+    width: 100%;
+    padding: 100px 0px;
+}
+
+
+.secao-rodape-dev{
+    padding: 20px 0px;
+    text-align: center;
+    font-size: 16px;
+    background-color: #f1f3f7;
+}
+
+.secao-rodape-dev span{
+    font-size: 16px;
+    color: #2f86d6;
+
+}
+
+
+.contatos-rodape{
+    width: 1024px;
+    margin: 0px auto;
+    text-align: center;
+    font-size: 16px;
+    color: #000000;
+    line-height: 40px;
+    
+}
+
+
+/* ----------------------------------------------------------------------------------------------*/
+/*                                          TABELA PREÇO                                         */
+/* ----------------------------------------------------------------------------------------------*/
+
+
+/* ----------------------------------------↓ SECAO-TOPO ↓-----------------------------------------*/
+
+.secao-topo-tb-preco{
+    background-color: hsl(209, 67%, 51%);
+    width: 100%;
+    padding: 35px 0px;
+    
+}
+
+.secao-topo-tb-preco-conteudo{
+    width: 1024px;
+    margin: 0px auto;
+    position: relative;
+}
+
+.secao-topo-tb-preco-conteudo-nav{
+    position: absolute;
+    top: 50%;
+    right: 0px;
+}
+
+.secao-topo-tb-preco-conteudo-nav a{
+    color: #fff;
+    text-decoration: none;
+    margin-left: 25px;
+    font-weight: bold;
+}
+
+
+/* ----------------------------------------↓ SECAO-TABELA ↓-----------------------------------------*/
+
+.secao-tabela-preco{
+    width: 100%;
+    padding: 100px 0px;
+    
+}
+
+.secao-tabela-preco-conteudo{
+    width: 1024px;
+    margin: 0px auto;
+    
+    
+}
+
+.secao-tabela-preco-conteudo table{
+    width: 1024px;
+    margin: 0px auto;
+    border-collapse: collapse; 
+       
+}
+
+.secao-tabela-preco-conteudo-cabeçalho{
+    background-color: #f1f3f7 ;
+    border-bottom: 2px solid #fff;
+    border-left: 2px solid #fff;
+
+}
+
+.secao-tabela-preco-conteudo-cabeçalho p{
+    font-size: 14px;
+    padding: 15px 0px 0px 0px;
+    font-weight: 500;
+    color: #a8a4a4;
+}
+.secao-tabela-preco-conteudo-cabeçalho h1{
+    font-size: 36px;
+    padding: 0px 30px 20px 30px;
+}
+
+.secao-tabela-preco-conteudo-primeira-coluna {
+    background-color: #f1f3f7;
+    margin: 0px;
+    line-height: 45px;
+    border: 2px solid #fff;
+    text-align: center;
+}
+
+.circulo-azul{
+    width: 25px;
+    height: 25px;
+    border-radius: 100px;
+    background-color: #2f86d6;
+    margin: 0px auto;
+}
+
+/* ----------------------------------------↓ SECAO-RODAPE ↓-----------------------------------------*/
+.secao-rodape-tb-preco{
+    background-color: #2f86d6;
+    padding: 50px 0px;
+
+}
+.secao-rodape-tb-preco-copywrite{
+    color: #fff;
+    text-align: center;
+    padding-top: 20px 0px;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+
+.logo-rodape-tb_preco{
+    width: 400px;
+    position: relative;
+    margin: 0px auto;
+}
+
+.logo-rodape-tb_preco span{
+    color: #fff;
+}
+
+.logo-rodape-tb_preco img{
+    width: 75px;
+    margin-top: 5px;
+}
+
+.logo-rodape-tb_preco h1{
+    position: absolute;
+    top: 5px;
+    left: 100px;
+    font-size: 32px;
+    color: #000000;
+}
+
+.logo-rodape-tb_preco p{
+    color: #2f86d6;
+    position: absolute;
+    font-size: 16px;
+    top: 50px;
+    left: 100px;
+}
+
+.secao-rodape-tb-preco-nome p{
+    padding: 15px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.secao-rodape-tb-preco-nome span{
+    color: #2f86d6;
+}
