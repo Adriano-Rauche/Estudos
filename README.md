@@ -1,32 +1,13 @@
-<h1 align="center">💻 Portfólio de Estudos – HTML + CSS</h1>
+## Meus Projetos de HTML + CSS
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</p>
+| Projeto 1 | Projeto 2 | Projeto 3 | Projeto 4 |
+|-----------|-----------|-----------|-----------|
+| <img src="./HTML+CSS/projeto1.png" alt="Projeto1" width="150"/> <br> **Projeto 1** <br> [Ver Online](https://projeto1.vercel.app) | <img src="./HTML+CSS/projeto2.png" alt="Projeto2" width="150"/> <br> **Projeto 2** <br> [Ver Online](https://projeto2.vercel.app) | <img src="./HTML+CSS/projeto3.png" alt="Projeto3" width="150"/> <br> **Projeto 3** <br> [Ver Online](https://projeto3.vercel.app) | <img src="./HTML+CSS/projeto4.png" alt="Projeto4" width="150"/> <br> **Projeto 4** <br> [Ver Online](https://projeto4.vercel.app) |
 
----
+| Projeto 5 | Projeto 6 | Projeto 7 | Projeto 8 |
+|-----------|-----------|-----------|-----------|
+| <img src="./HTML+CSS/projeto5.png" alt="Projeto5" width="150"/> <br> **Projeto 5** <br> [Ver Online](https://projeto5.vercel.app) | <img src="./HTML+CSS/projeto6.png" alt="Projeto6" width="150"/> <br> **Projeto 6** <br> [Ver Online](https://projeto6.vercel.app) | <img src="./HTML+CSS/projeto7.png" alt="Projeto7" width="150"/> <br> **Projeto 7** <br> [Ver Online](https://projeto7.vercel.app) | <img src="./HTML+CSS/projeto8.png" alt="Projeto8" width="150"/> <br> **Projeto 8** <br> [Ver Online](https://projeto8.vercel.app) |
 
-## 🚀 Projetos Desenvolvidos
-
-<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px;">
-
-<!-- Card do Projeto -->
-<div style="border:1px solid #eee; border-radius:10px; padding:10px; text-align:center;">
-  <img src="./HTML+CSS/10 - Projeto - Site de hospedagem/layout-das-telas/layout-pagina-home.png" alt="Projeto 10" width="150px" style="border-radius:10px;">
-  <h3>🏢 Site de Hospedagem</h3>
-  <p>Página institucional simulando uma empresa de hospedagem de sites.</p>
-  <a href="https://SEU-PROJETO-VERCEL-10.vercel.app" target="_blank" style="text-decoration:none; color:white; background:#000; padding:6px 10px; border-radius:5px; display:inline-block;">Ver Online</a>
-</div>
-
-<div style="border:1px solid #eee; border-radius:10px; padding:10px; text-align:center;">
-  <img src="./HTML+CSS/11 - Projeto - Pousada Secreta/assets/img-fundo.jpg" alt="Projeto 11" width="150px" style="border-radius:10px;">
-  <h3>🏨 Pousada Secreta</h3>
-  <p>Site de pousada fictícia com seções de quartos, contato e galeria de imagens.</p>
-  <a href="https://SEU-PROJETO-VERCEL-11.vercel.app" target="_blank" style="text-decoration:none; color:white; background:#000; padding:6px 10px; border-radius:5px; display:inline-block;">Ver Online</a>
-</div>
-
-<!-- Repita para os próximos projetos -->
-
-</div>
+| Projeto 9 | Projeto 10 | Projeto 11 | Projeto 12 |
+|-----------|------------|------------|------------|
+| <img src="./HTML+CSS/projeto9.png" alt="Projeto9" width="150"/> <br> **Projeto 9** <br> [Ver Online](https://projeto9.vercel.app) | <img src="./HTML+CSS/projeto10.png" alt="Projeto10" width="150"/> <br> **Projeto 10** <br> [Ver Online](https://projeto10.vercel.app) | <img src="./HTML+CSS/projeto11.png" alt="Projeto11" width="150"/> <br> **Projeto 11** <br> [Ver Online](https://projeto11.vercel.app) | <img src="./HTML+CSS/projeto12.png" alt="Projeto12" width="150"/> <br> **Projeto 12** <br> [Ver Online](https://projeto12.vercel.app) |
