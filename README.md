@@ -14,19 +14,19 @@
 
 <!-- Card do Projeto -->
 <div style="border:1px solid #eee; border-radius:10px; padding:10px; text-align:center;">
-  <img src="./HTML+CSS/10 - Projeto - Site de hospedagem/layout-das-telas/layout-pagina-home.png" alt="Projeto 10" width="100%" style="border-radius:10px;">
+  <img src="./HTML+CSS/10 - Projeto - Site de hospedagem/layout-das-telas/layout-pagina-home.png" alt="Projeto 10" width="150px" style="border-radius:10px;">
   <h3>🏢 Site de Hospedagem</h3>
   <p>Página institucional simulando uma empresa de hospedagem de sites.</p>
-  <a href="https://SEU-PROJETO-VERCEL-10.vercel.app" target="_blank" style="text-decoration:none; color:white; background:#000; padding:8px 12px; border-radius:5px; display:inline-block;">Ver Online</a>
+  <a href="https://SEU-PROJETO-VERCEL-10.vercel.app" target="_blank" style="text-decoration:none; color:white; background:#000; padding:6px 10px; border-radius:5px; display:inline-block;">Ver Online</a>
 </div>
 
 <div style="border:1px solid #eee; border-radius:10px; padding:10px; text-align:center;">
-  <img src="./HTML+CSS/11 - Projeto - Pousada Secreta/assets/img-fundo.jpg" alt="Projeto 11" width="100%" style="border-radius:10px;">
+  <img src="./HTML+CSS/11 - Projeto - Pousada Secreta/assets/img-fundo.jpg" alt="Projeto 11" width="150px" style="border-radius:10px;">
   <h3>🏨 Pousada Secreta</h3>
   <p>Site de pousada fictícia com seções de quartos, contato e galeria de imagens.</p>
-  <a href="https://SEU-PROJETO-VERCEL-11.vercel.app" target="_blank" style="text-decoration:none; color:white; background:#000; padding:8px 12px; border-radius:5px; display:inline-block;">Ver Online</a>
+  <a href="https://SEU-PROJETO-VERCEL-11.vercel.app" target="_blank" style="text-decoration:none; color:white; background:#000; padding:6px 10px; border-radius:5px; display:inline-block;">Ver Online</a>
 </div>
 
-<!-- Adicione novos cards aqui -->
+<!-- Repita para os próximos projetos -->
 
 </div>
