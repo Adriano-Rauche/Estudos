@@ -11,23 +11,15 @@
 ## 🧭 Sobre Este Repositório
 
 Este repositório reúne **todos os projetos de HTML e CSS** desenvolvidos durante meu curso de front-end.  
-O objetivo é praticar:  
-
-- Estruturação semântica com HTML5  
-- Estilização com CSS3  
-- Layouts responsivos  
-- Flexbox e Grid  
-- Boas práticas de organização de código  
-
 Todos os projetos estão **hospedados na Vercel**, então você pode visualizar online com apenas um clique.
 
 ---
 
 ## 🚀 Projetos Desenvolvidos
 
-<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
-<!-- Card do Projeto 1 -->
+<!-- Card do Projeto -->
 <div style="border:1px solid #eee; border-radius:10px; width:250px; text-align:center; padding:10px;">
   <img src="./HTML+CSS/10 - Projeto - Site de hospedagem/layout-das-telas/layout-pagina-home.png" alt="Projeto 10" width="250" height="150" style="border-radius:10px;">
   <h3>🏢 Site de Hospedagem</h3>
@@ -35,13 +27,14 @@ Todos os projetos estão **hospedados na Vercel**, então você pode visualizar 
   <a href="https://SEU-PROJETO-VERCEL-10.vercel.app" target="_blank" style="text-decoration:none; color:white; background:#000; padding:8px 12px; border-radius:5px; display:inline-block;">Ver Online</a>
 </div>
 
-<!-- Card do Projeto 2 -->
 <div style="border:1px solid #eee; border-radius:10px; width:250px; text-align:center; padding:10px;">
   <img src="./HTML+CSS/11 - Projeto - Pousada Secreta/assets/img-fundo.jpg" alt="Projeto 11" width="250" height="150" style="border-radius:10px;">
   <h3>🏨 Pousada Secreta</h3>
   <p>Site de pousada fictícia com seções de quartos, contato e galeria de imagens.</p>
   <a href="https://SEU-PROJETO-VERCEL-11.vercel.app" target="_blank" style="text-decoration:none; color:white; background:#000; padding:8px 12px; border-radius:5px; display:inline-block;">Ver Online</a>
 </div>
+
+<!-- Adicione novos cards aqui -->
 
 </div>
 
