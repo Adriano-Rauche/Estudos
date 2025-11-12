@@ -1,0 +1,289 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Source Sans Pro', 'sans-serif';
+    
+}
+
+h1{
+    color: rgb(75, 74, 74);
+}
+
+.secao{
+    width: 1024px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+/* ------------------------SECAO-TOPO------------------------*/
+
+.secao-topo{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #fff;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+}
+
+.secao-topo-conteudo{
+    justify-content: space-between;
+    padding: 15px;
+    
+}
+
+.secao-topo-conteudo span{
+    color: rgb(70, 70, 253);
+}
+
+
+
+.secao-topo-conteudo a{
+    text-decoration: none;
+    padding: 15px;
+    color: rgb(75, 74, 74);
+    font-size: 28px;
+    font-weight: bold;
+}
+
+
+
+/* ------------------------SECAO-BANNER------------------------*/
+
+.secao-banner{
+    background-image: url(assets/img-fundo.jpg);
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    margin-top: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.secao-banner-conteudo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: rgba(19, 70, 6, 0.671);
+    border: 1px solid rgba(255, 255, 255, 0.438);
+    border-radius: 5px;
+    box-shadow: 0px 0px 20px 2px green
+}
+
+.secao-banner-conteudo h1{
+    padding: 50px 120px;
+    color: #fff;
+    font-size: 48px;
+}
+
+.secao-banner-conteudo p{
+    color: #fff;
+    font-size: 24px;
+    margin-bottom: 25px ;
+}
+
+.secao-topo-links a{
+    font-size: 22px;
+    color: rgb(75, 74, 74);
+}
+
+/* ------------------------SECAO-INFO------------------------*/
+
+.secao-info{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.card-seja-bem-vindo {
+    padding: 90px 0px 60px 0px;
+    text-align: center;
+    font-weight: none;
+    line-height: 40px;
+}
+.card-seja-bem-vindo h1{
+    padding: 0px 0px 25px 0px;
+}
+
+.card-seja-bem-vindo p{
+    line-height: 32px;
+}
+
+/* ------------------------SECAO-INFO-CARD------------------------*/
+
+.secao-info-card{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    flex-grow: 1;
+    align-items: center;
+    justify-content: center;
+    gap: 25px;
+}
+
+.secao-info-card img{
+    width: 350px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 5px 1px green;
+}
+
+.card-info{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 0px 20px;
+    border-bottom: 3px solid rgba(14, 122, 14, 0.808);
+    
+}
+
+.card-info a {
+    text-decoration: none;
+    color:  rgb(75, 74, 74);
+    font-size: 20px;
+    padding: 15px;
+    font-weight: 600;
+}
+
+/* ------------------------SECAO-ROTA------------------------*/
+
+.secao-rota{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 90px 0px;
+    flex-direction: column;
+    width: 100%;
+}
+.secao-rota p{
+    padding: 25px;
+}
+
+.secao-rota iframe{
+    width: calc(100% - 20px);
+    border-radius: 5px;
+    box-shadow: 0px 0px 5px 1px green;
+}
+
+
+
+/* ------------------------SECAO-SOBRE------------------------*/
+
+.secao-sobre{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: column;
+}
+
+.secao-sobre-titulo h1{
+    padding: 30px;
+    text-align: center;
+}
+.secao-sobre-titulo p{
+    text-align: center;
+    padding: 0px 0px 60px 0px ;
+}
+
+.secao-card-sobre{
+    display: flex;
+    flex-wrap: wrap;
+    width: 90%;
+    gap: 50px 100px;
+    align-items:center ;
+    justify-content: center;
+    padding-bottom: 50px;
+    flex: 1 1 auto;
+}
+
+.card-sobre{
+    display: flex;
+    flex-direction: row;
+    height: 150px;
+    justify-content: space-between;
+    flex: 0 1 550px;
+    min-width: 550px;
+}
+
+.card-sobre img{
+    width: 150px;
+    height: auto;
+    object-fit: cover;
+    border-radius: 5px;
+
+}
+
+.card-sobre-info{
+    display: flex;
+    flex-direction: column;
+    text-align: start;
+}
+
+.card-sobre-info h1{
+    font-size: 30px;
+    padding: 0px 0px 15px 0px;
+}
+
+.card-sobre-info p{
+    font-size: 20px;
+    max-width: 95%;
+}
+
+/* ------------------------SECAO-RODAPE------------------------*/
+
+.secao-rodape{
+    display: flex;
+    background-color: #49997d;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 15px;
+}
+
+.secao-rodape-conteudo{
+    display: flex;
+    flex-direction: row;
+    border-bottom: 2px solid #36705c;
+    gap: 20px;
+    flex-wrap: wrap;
+    flex-grow: 1 1 70px;
+    justify-content: center;
+}
+
+.Copyright{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    background-color: #49997d;
+    color: #fff;
+    width: 1024px;
+}
+
+.card-rodape{
+    display: flex;
+    align-items: center;
+    text-align: start;
+    gap: 20px;
+    color: #fff;
+    padding: 20px;
+    height: 70px;
+    flex-direction: row;
+
+}
+
+.card-rodape h1{
+    color: #fff;
+    font-size: 22px;
+}
