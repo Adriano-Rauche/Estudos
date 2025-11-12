@@ -4,11 +4,32 @@ Aqui estão alguns dos meus projetos de aprendizado em HTML e CSS, com descriç�
 
 ---
 
+## Projeto 5: Imobiliária Santos
+![Projeto 5 - Imobiliária Santos](./HTML+CSS/5-%20Projeto%20-%20Imobiliaria/Projeto%20-%20Imobiliária%20Santos.png)
+
+**Descrição:**  
+Desenvolvi um site completo para uma imobiliária, incluindo serviços, corretores e contato com mapa.
+
+**Destaques do aprendizado:**
+- Estrutura completa de site com HTML5: seções bem definidas (sobre, serviços, corretores, contato)
+- Navegação interna com links âncora para facilitar o acesso às seções
+- Inserção e estilização de imagens (logo, banner, corretores, imóveis) com `alt` e `title`
+- Estilização de layout com CSS: cores, fontes, tamanhos de texto e bordas arredondadas
+- Listas de serviços e contatos bem organizadas e estilizadas
+- Incorporação de mapa do Google Maps usando `<iframe>`
+- Boas práticas: CSS externo, código organizado e semântico
+- Site responsivo básico, organizado e visualmente agradável
+
+[Ver Online](./HTML+CSS/5%20-%20Projeto-Imobiliaria-Santos)
+
+---
+
 ## Projeto 4: A Era Artificial
 ![Projeto 4 - A Era Artificial](./HTML+CSS/4%20-%20Projeto-Livro/Img/capa-livro.jpg)
 
 **Descrição:**  
 Neste projeto aprendi a criar uma página de divulgação de livro usando HTML e CSS.  
+
 **Destaques do aprendizado:**
 - Estruturação de conteúdo com múltiplas seções (divs)
 - Hierarquia de títulos com h1, h2 e h3
@@ -25,6 +46,7 @@ Neste projeto aprendi a criar uma página de divulgação de livro usando HTML e
 
 **Descrição:**  
 Neste projeto aprendi a criar um site institucional completo com HTML e CSS.  
+
 **Destaques do aprendizado:**
 - Estruturação de páginas com seções claras usando divs
 - Hierarquia de títulos com h1, h2 e h3
@@ -37,10 +59,11 @@ Neste projeto aprendi a criar um site institucional completo com HTML e CSS.
 ---
 
 ## Projeto 2: Bolo de Chocolate
-![Projeto 2 - Bolo de Chocolate](./HTML+CSS/2%20-%20Projeto%20-%20Bolo-de-Chocolate/bolo-chocolate.jpg)
+![Projeto 2 - Bolo de Chocolate](./HTML+CSS/2%20-%20Projeto-%20Bolo-de-Chocolate/bolo-chocolate.jpg)
 
 **Descrição:**  
 Neste projeto aprendi a criar uma página de receita utilizando HTML e CSS.  
+
 **Destaques do aprendizado:**
 - Estruturação de títulos com h1, h2 e h3
 - Organização de conteúdo usando divs
@@ -48,7 +71,7 @@ Neste projeto aprendi a criar uma página de receita utilizando HTML e CSS.
 - Estilização de fontes, cores e alinhamento com CSS externo
 - Escrita de listas de instruções de forma clara
 
-[Ver Online](./HTML+CSS/2%20-%20Projeto%20-%20Bolo-de-Chocolate)
+[Ver Online](./HTML+CSS/2%20-%20Projeto-%20Bolo-de-Chocolate)
 
 ---
 
