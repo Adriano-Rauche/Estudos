@@ -1,13 +1,61 @@
-## Meus Projetos de HTML + CSS
+# Meus Projetos de HTML + CSS
 
-| Projeto 1 | Projeto 2 | Projeto 3 | Projeto 4 |
-|-----------|-----------|-----------|-----------|
-| <img src="./HTML+CSS/1 - Parque-Estadual/layout-finalizado.jpeg" alt="Projeto1" width="150"/> <br> **Projeto 1** <br> [Ver Online](https://projeto1.vercel.app) | <img src="./HTML+CSS/2 - Projeto - Bolo-de-Chocolate/bolo-chocolate.jpg" alt="Projeto2" width="150"/> <br> **Projeto 2** <br> [Ver Online](https://projeto2.vercel.app) | <img src="./HTML+CSS/3 - Projeto - Barbearia/Imagens/logotipo.jpg" alt="Projeto3" width="150"/> <br> **Projeto 3** <br> [Ver Online](https://projeto3.vercel.app) | <img src="./HTML+CSS/projeto4.png" alt="Projeto4" width="150"/> <br> **Projeto 4** <br> [Ver Online](https://projeto4.vercel.app) |
+Aqui estão alguns dos meus projetos de aprendizado em HTML e CSS, com descrições do que aprendi em cada um.
 
-| Projeto 5 | Projeto 6 | Projeto 7 | Projeto 8 |
-|-----------|-----------|-----------|-----------|
-| <img src="./HTML+CSS/projeto5.png" alt="Projeto5" width="150"/> <br> **Projeto 5** <br> [Ver Online](https://projeto5.vercel.app) | <img src="./HTML+CSS/projeto6.png" alt="Projeto6" width="150"/> <br> **Projeto 6** <br> [Ver Online](https://projeto6.vercel.app) | <img src="./HTML+CSS/projeto7.png" alt="Projeto7" width="150"/> <br> **Projeto 7** <br> [Ver Online](https://projeto7.vercel.app) | <img src="./HTML+CSS/projeto8.png" alt="Projeto8" width="150"/> <br> **Projeto 8** <br> [Ver Online](https://projeto8.vercel.app) |
+---
 
-| Projeto 9 | Projeto 10 | Projeto 11 | Projeto 12 |
-|-----------|------------|------------|------------|
-| <img src="./HTML+CSS/projeto9.png" alt="Projeto9" width="150"/> <br> **Projeto 9** <br> [Ver Online](https://projeto9.vercel.app) | <img src="./HTML+CSS/projeto10.png" alt="Projeto10" width="150"/> <br> **Projeto 10** <br> [Ver Online](https://projeto10.vercel.app) | <img src="./HTML+CSS/projeto11.png" alt="Projeto11" width="150"/> <br> **Projeto 11** <br> [Ver Online](https://projeto11.vercel.app) | <img src="./HTML+CSS/projeto12.png" alt="Projeto12" width="150"/> <br> **Projeto 12** <br> [Ver Online](https://projeto12.vercel.app) |
+## Projeto 1: Primeiro HTML
+![Primeiro HTML](./HTML+CSS/1%20-%20Parque-Estadual/layout-finalizado.jpeg)
+
+**Descrição:**  
+Nesse projeto pude aprender os conceitos mais básicos de HTML, como as tags mais simples e a estruturação das páginas. Este projeto marcou meu primeiro contato prático com HTML e desenvolvimento web.
+
+[Ver Online](./HTML+CSS/1%20-%20Parque-Estadual)
+
+---
+
+## Projeto 2: Bolo de Chocolate
+![Projeto 2 - Bolo de Chocolate](./HTML+CSS/2%20-%20Projeto%20-%20Bolo-de-Chocolate/bolo-chocolate.jpg)
+
+**Descrição:**  
+Neste projeto aprendi a criar uma página de receita utilizando HTML e CSS.  
+**Destaques do aprendizado:**
+- Estruturação de títulos com h1, h2 e h3
+- Organização de conteúdo usando divs
+- Inserção de imagens com atributos alt e title
+- Estilização de fontes, cores e alinhamento com CSS externo
+- Escrita de listas de instruções de forma clara
+
+[Ver Online](./HTML+CSS/2%20-%20Projeto%20-%20Bolo-de-Chocolate)
+
+---
+
+## Projeto 3: Barbearia Stylus
+![Projeto 3 - Barbearia Stylus](./HTML+CSS/3%20-%20Projeto%20-%20Barbearia/Imagens/logotipo.jpg)
+
+**Descrição:**  
+Neste projeto aprendi a criar um site institucional completo com HTML e CSS.  
+**Destaques do aprendizado:**
+- Estruturação de páginas com seções claras usando divs
+- Hierarquia de títulos com h1, h2 e h3
+- Inserção e estilização de imagens e links (ex.: botão WhatsApp)
+- Estilização de texto e layout com CSS externo
+- Aplicação de cores, fontes, bordas e alinhamento para melhorar visual
+
+[Ver Online](./HTML+CSS/3%20-%20Barbearia-Stylus)
+
+---
+
+## Projeto 4: A Era Artificial
+![Projeto 4 - A Era Artificial](./HTML+CSS/4%20-%20Projeto-Livro/Img/capa-livro.jpg)
+
+**Descrição:**  
+Neste projeto aprendi a criar uma página de divulgação de livro usando HTML e CSS.  
+**Destaques do aprendizado:**
+- Estruturação de conteúdo com múltiplas seções (divs)
+- Hierarquia de títulos com h1, h2 e h3
+- Inserção de imagens com alt e title
+- Links externos com estilo de botão (ex.: "Comprar" na Amazon)
+- Estilização de texto, cores, bordas e layout para melhorar legibilidade
+
+[Ver Online](https://www.amazon.com.br/Era-Artificial-tempo-sombrio-m%C3%A1quinas-ebook/dp/B07VFF5368/)
