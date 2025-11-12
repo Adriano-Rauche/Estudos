@@ -1,72 +1,54 @@
-<h1 align="center">💻 Repositório de Estudos – HTML + CSS</h1>
+<h1 align="center">💻 Portfólio de Estudos – HTML + CSS</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/DevMedia-007ACC?style=for-the-badge&logo=readme&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
 ---
 
-## 🧭 Sobre o Repositório
+## 🧭 Sobre Este Repositório
 
-Bem-vindo(a)! 👋  
-Este repositório contém todos os **projetos desenvolvidos durante o curso de HTML + CSS da [DevMedia](https://www.devmedia.com.br/)**.  
+Este repositório reúne **todos os projetos de HTML e CSS** desenvolvidos durante meu curso de front-end.  
+O objetivo é praticar:  
 
-Aqui estão reunidos exercícios e desafios práticos que me ajudaram a consolidar fundamentos importantes de **estruturação de páginas web** e **estilização com CSS**.
+- Estruturação semântica com HTML5  
+- Estilização com CSS3  
+- Layouts responsivos  
+- Flexbox e Grid  
+- Boas práticas de organização de código  
 
----
-
-## 🗂️ Estrutura de Pastas
-
-
-Cada pasta representa um projeto independente com seus próprios arquivos e recursos.
-
----
-
-## 🚧 Projetos Desenvolvidos
-
-| Nº | Projeto | Descrição | 📂 Link |
-|----|----------|------------|---------|
-| 10 | 🏢 **Site de Hospedagem** | Página institucional simulando uma empresa de hospedagem de sites. | [Abrir pasta](./HTML+CSS/10%20-%20Projeto%20-%20Site%20de%20hospedagem/) |
-| 11 | 🏨 **Pousada Secreta** | Site de uma pousada fictícia com seções de quartos, contato e galeria de imagens. | [Abrir pasta](./HTML+CSS/11%20-%20Projeto%20-%20Pousada%20Secreta/) |
-
-> 📌 *Novos projetos serão adicionados à medida que o curso avança.*
+Todos os projetos estão **hospedados na Vercel**, então você pode visualizar online com apenas um clique.
 
 ---
 
-## 🖼️ Galeria de Projetos
+## 🚀 Projetos Desenvolvidos
 
-<p align="center">
-  <a href="./HTML+CSS/10%20-%20Projeto%20-%20Site%20de%20hospedagem/">
-    <img src="./HTML+CSS/10%20-%20Projeto%20-%20Site%20de%20hospedagem/layout-das-telas/layout-pagina-home.png" width="45%" alt="Projeto 10 - Site de Hospedagem">
-  </a>
-  &nbsp;&nbsp;
-  <a href="./HTML+CSS/11%20-%20Projeto%20-%20Pousada%20Secreta/">
-    <img src="./HTML+CSS/11%20-%20Projeto%20-%20Pousada%20Secreta/assets/img-fundo.jpg" width="45%" alt="Projeto 11 - Pousada Secreta">
-  </a>
-</p>
+<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px;">
 
-> 🖼️ *As imagens acima são apenas pré-visualizações dos projetos — clique para abrir a pasta correspondente.*
+<!-- Card do Projeto 1 -->
+<div style="border:1px solid #eee; border-radius:10px; width:250px; text-align:center; padding:10px;">
+  <img src="./HTML+CSS/10 - Projeto - Site de hospedagem/layout-das-telas/layout-pagina-home.png" alt="Projeto 10" width="100%" style="border-radius:10px;">
+  <h3>🏢 Site de Hospedagem</h3>
+  <p>Página institucional simulando uma empresa de hospedagem de sites.</p>
+  <a href="https://SEU-PROJETO-VERCEL-10.vercel.app" target="_blank" style="text-decoration:none; color:white; background:#000; padding:8px 12px; border-radius:5px; display:inline-block;">Ver Online</a>
+</div>
 
----
+<!-- Card do Projeto 2 -->
+<div style="border:1px solid #eee; border-radius:10px; width:250px; text-align:center; padding:10px;">
+  <img src="./HTML+CSS/11 - Projeto - Pousada Secreta/assets/img-fundo.jpg" alt="Projeto 11" width="100%" style="border-radius:10px;">
+  <h3>🏨 Pousada Secreta</h3>
+  <p>Site de pousada fictícia com seções de quartos, contato e galeria de imagens.</p>
+  <a href="https://SEU-PROJETO-VERCEL-11.vercel.app" target="_blank" style="text-decoration:none; color:white; background:#000; padding:8px 12px; border-radius:5px; display:inline-block;">Ver Online</a>
+</div>
 
-## 🧠 Conceitos Praticados
-
-✅ Estrutura semântica com **HTML5**  
-✅ Estilização e layout com **CSS3**  
-✅ Uso de **Flexbox** e **Grid Layout**  
-✅ Organização e boas práticas de código  
-✅ Criação de **layouts responsivos**  
-✅ Inserção de imagens, ícones e fontes externas  
+</div>
 
 ---
 
-## 🚀 Como Visualizar os Projetos
+## 🖥️ Como Visualizar Localmente
 
-1. Clone este repositório:
+1. Clone o repositório:
    ```bash
    git clone https://github.com/Adriano-Rauche/Estudos.git
-<a href="./HTML+CSS/NOVO%20PROJETO/">
-  <img src="./HTML+CSS/NOVO%20PROJETO/assets/preview.jpg" width="45%" alt="Nome do projeto">
-</a>
