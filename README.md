@@ -2,7 +2,7 @@
 
 | Projeto 1 | Projeto 2 | Projeto 3 | Projeto 4 |
 |-----------|-----------|-----------|-----------|
-| <img src="./HTML+CSS/1 - Parque-Estadual/layout-finalizado.jpeg" alt="Projeto1" width="150"/> <br> **Projeto 1** <br> [Ver Online](https://projeto1.vercel.app) | <img src="./HTML+CSS/2 - Projeto - Bolo-de-Chocolate/bolo-chocolate.jpg" alt="Projeto2" width="150"/> <br> **Projeto 2** <br> [Ver Online](https://projeto2.vercel.app) | <img src="./HTML+CSS/projeto3.png" alt="Projeto3" width="150"/> <br> **Projeto 3** <br> [Ver Online](https://projeto3.vercel.app) | <img src="./HTML+CSS/projeto4.png" alt="Projeto4" width="150"/> <br> **Projeto 4** <br> [Ver Online](https://projeto4.vercel.app) |
+| <img src="./HTML+CSS/1 - Parque-Estadual/layout-finalizado.jpeg" alt="Projeto1" width="150"/> <br> **Projeto 1** <br> [Ver Online](https://projeto1.vercel.app) | <img src="./HTML+CSS/2 - Projeto - Bolo-de-Chocolate/bolo-chocolate.jpg" alt="Projeto2" width="150"/> <br> **Projeto 2** <br> [Ver Online](https://projeto2.vercel.app) | <img src="./HTML+CSS/3 - Projeto - Barbearia/Imagens/logotipo.jpg" alt="Projeto3" width="150"/> <br> **Projeto 3** <br> [Ver Online](https://projeto3.vercel.app) | <img src="./HTML+CSS/projeto4.png" alt="Projeto4" width="150"/> <br> **Projeto 4** <br> [Ver Online](https://projeto4.vercel.app) |
 
 | Projeto 5 | Projeto 6 | Projeto 7 | Projeto 8 |
 |-----------|-----------|-----------|-----------|
